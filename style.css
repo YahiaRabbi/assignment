@@ -1,9 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
-    display: flex;
+    margin: 0;
 }
-section{
+.section1{
     display: flex;
+    padding-bottom: 2%;
 }
 .span{
     color: orange;
@@ -24,7 +25,7 @@ h1{
     padding-left: 5%;
     padding-top: 3%;
 }
-.half img{
+.half2 img{
     width: 100%;
 }
 .button1{
@@ -32,10 +33,35 @@ h1{
     color: aliceblue;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
-    border-radius: 5px;
+    border-radius: 20px;
     font-weight: 300;
 }
 .para1{
     margin-bottom: 5%;
     margin-top: 5%;
+}
+.sec2{
+    display: flex;
+    background-image: url(food-network-main/images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.half3 img{
+    width: 40%;
+}
+.half3{
+width: 100%;
+padding: 7%;
+}
+.half4{
+width: 100%;
+padding-top: 12%;
+padding-right: 3%;
+}
+.about{
+    padding-bottom: 5%;
+}
+.para2{
+    padding-bottom: 5%;
 }
