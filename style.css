@@ -46,6 +46,7 @@ h1{
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
+    padding-bottom: 2%;
 }
 .half3 img{
     width: 40%;
@@ -56,12 +57,36 @@ padding: 7%;
 }
 .half4{
 width: 100%;
-padding-top: 12%;
+padding-top: 2%;
 padding-right: 3%;
 }
 .about{
     padding-bottom: 5%;
+    padding-top: 18%;
 }
 .para2{
     padding-bottom: 5%;
+}
+.boxes{
+    display: flex;
+    width: 80%;
+    padding-bottom: 5%;
+}
+.third{
+    text-align: center;
+    padding-bottom: 2%;
+}
+.third1{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-bottom: 5%;
+}
+.half5{
+    width: 40%;
+    margin-left: 15%;
+    padding-left: 2%;
+    padding-bottom: 3%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
 }
